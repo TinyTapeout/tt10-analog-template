@@ -1,5 +1,9 @@
 ![](../../workflows/gds/badge.svg) ![](../../workflows/docs/badge.svg)
 
+# ⚠️ This template is old and outdated ⚠️
+
+Please use **[ttsky-analog-template](https://github.com/TinyTapeout/ttsky-analog-template)** for new projects.
+
 # Tiny Tapeout Analog Project Template
 
 - [Read the documentation for project](docs/info.md)
